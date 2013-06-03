@@ -1,4 +1,12 @@
-The transformation from Emotiv to Easymotiv is very simple. There are 5 basic steps: Disassembling the Emotiv, assembling the EASY CAP, soldering the wires of the Emotiv to one side of a 16pin connector, crimping the wires of the electrodes and inserting them into the other side of the 16 pin connector, and modifying a plastic box to hold everything.  When you use the converted system in publications, please cite Debener et al, How about taking a low-cost, small, and wireless EEG for a walk?, Psychophysiology 2012, 49: 1617–1621. 
+The transformation from Emotiv to Easymotiv is very simple. There are 5 basic steps: 
+
+* disassembling the Emotiv,
+* assembling the EASY CAP, 
+* soldering the wires of the Emotiv to one side of a 16pin connector,
+* crimping the wires of the electrodes and inserting them into the other side of the 16 pin connector, and 
+* modifying a plastic box to hold everything.  
+
+When you use the converted system in publications, please cite `Debener et al, How about taking a low-cost, small, and wireless EEG for a walk?, Psychophysiology 2012, 49: 1617–1621.`
 
 ![Overview.png](https://raw.github.com/Neuroband/Emotiv-Transformation/master/Images/Overview.png)
 
